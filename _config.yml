@@ -1,7 +1,7 @@
 name: Oertel Architects
 favicon: null
-layout_spectrum: 0.21468663937412202
-typography_spectrum: 0.25794454966671765
+layout_spectrum: 0.49285
+typography_spectrum: 0.74241
 title: Oertel Architects home page
 cta:
   domain: null
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.21181686595082283
-  lightness: 0.8681721840985119
-  saturation: 0.061889288714155555
-  rhythmicContrast: 0.10604280629195273
+  brandColors:
+    - '#181d20'
+    - '#a1a2a4'
+    - '#cdcfce'
+    - '#6f7374'
+    - '#545859'
+  brandStrength: 0.4375
+  lightness: 1
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
